@@ -1,0 +1,1 @@
+Open index.html in any browser. Replace placeholder text/images with your own.
