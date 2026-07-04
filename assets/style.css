@@ -1,0 +1,5 @@
+body{margin:0;font-family:'Times New Roman', 'Times New Roman', Times 'Times New Roman', Times, serif, serif, serif,'Times New Roman', Times, serif;color:#234}header{background:#06584d;color:#f1eeee;padding:60px;text-align:center}
+nav{background:#06584d;padding:12px}nav a{color:#f5f5f8;text-decoration:none;margin:0 12px}
+section{padding:40px;max-width:1100px;margin:auto}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px}
+.card{border:1px solid #ddd;border-radius:10px;padding:20px;box-shadow:2px 2px 8px #ddd}footer{background:#06584d;color:#fff;padding:20px;text-align:center}
+.btn{background:#0a7c6b;color:#111111;padding:12px 18px;border-radius:6px;text-decoration:none}
